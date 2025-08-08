@@ -1,0 +1,76 @@
+
+
+1. Color	Usage	Hex Code
+Deep Teal	Trust & Security	#004D40
+Soft Lavender	Empathy & Calm	#C5CAE9
+Coral Red	Alerts & Warnings	#F44336
+Light Mint	Action & Safe Zones	#B2DFDB
+Warm Sand	Background Neutral	#F5F5F5
+Midnight	Text & Contrast	#212121
+Make this the default theme
+
+
+2.  Iconography
+•	Icons: any icons you see fit
+•	Animations: Subtle transitions for safety features; aggressive red animations for escalations
+________________________________________
+🧭 USER WALKTHROUGH: From First Launch to Real-World Use
+✅ Step 1: Onboarding & Consent
+•	Splash Screen with mission statement: “Powered by community, built for your safety.”
+•	Quick Language Selection(optional)
+•	User chooses mode: “Just Me” or “With a Circle”
+•	Consent Forms for encryption, privacy, and optional AI nudges
+•	PIN/Face ID setup to access app
+________________________________________
+🔐 Step 2: WhisperNet Walkthrough (Private Documentation)
+•	Tutorial pop-up: “WhisperNet keeps your story safe. Nothing leaves your phone without your command.”
+•	Input Methods UI:
+o	📷 Upload evidence (photo/video)
+o	🎤 Voice note input (AI auto-transcribe optional)
+o	📍Geo-tag & timestamp shown visibly
+•	AI Nudge Toggle:
+o	User can opt-in to receive soft check-ins(optional)
+•	Vault Setup:
+o	Define posthumous protocol (optional)
+o	Set trusted legal/NGO contacts
+o	Configure “dead man’s switch” check-in frequency
+________________________________________
+👥 Step 3: CircleSafe Walkthrough (Social Safety)
+•	Create Circle
+o	Add trusted people via QR code, phone number, or Bluetooth proximity
+o	Assign roles: "Listener", "Watcher", "Responder"
+•	Define Safe Zones
+o	Map-based drag & drop to set home, campus, work, etc.
+•	Set Trigger Words
+o	Choose up to 3 custom phrases
+o	Voice samples collected for offline voice recognition
+•	Notification Settings
+o	What your Circle sees (location, silent alerts, severity level)
+________________________________________
+🛡 Step 4: Real-World Use Case
+•	User walking home
+o	Leaves safe zone, Circle gets soft alert
+o	Says “Hope” → Silent recording begins
+o	Video & GPS auto-saved in WhisperNet vault
+o	Circle gets escalated ping (based on settings)
+o	WhisperNet begins countdown to release data if no check-in
+________________________________________
+🧠 Step 5: After an Incident
+•	WhisperNet creates a timeline of abuse patterns
+•	Option to export to PDF, lawyer, or NGO
+•	App recommends:
+o	Nearby support centers
+o	Online counseling services
+o	Community stories from survivors
+________________________________________
+🌐 OPTIONAL OFFLINE MODE FLOW
+If no network:
+•	CircleSafe uses mesh networking
+•	Devices nearby with app form a P2P net
+•	Alerts and recordings still transmit locally
+•	Data is synced to cloud when signal returns
+________________________________________
+🔁 ECOSYSTEM INTEGRATION
+•	NGOs can register on the app to offer help or receive data from users
+•	App can integrate with Namola or SAPS API only at user's permission
+•	Can be plugged into school or university safety networks (with admin rights)
